@@ -1,0 +1,23 @@
+#In The Name Of God
+# Go build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Vendor folder
+vendor/
+
+# Environment files
+.env
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
